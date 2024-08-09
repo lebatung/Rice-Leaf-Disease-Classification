@@ -1,3 +1,4 @@
+# Convert .h5 file into a tflite file for embedding to flutter 
 import tensorflow as tf
 import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
